@@ -1,2 +1,2 @@
 # mooc-ml-in-weather-and-climate
-MOOC Machine Learning in Weather and Climate
+MOOC Machine Learning in Weather & Climate 
